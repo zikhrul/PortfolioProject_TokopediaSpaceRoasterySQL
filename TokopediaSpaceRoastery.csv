@@ -1,0 +1,48 @@
+Category,BeansCategory,Name,Price,SoldQty,Pack_in_grams,Origin,Region,Country,Variety,Altitude,Process,Highlight1,Highlight2,Highlight3,Highlight4,5star,4star,3star,2star,1star,TotalReview,RatingAvg
+Mini Pack,Arabica,Sulawesi Typica Vanilla Tea,75000,5,100,Gowa,South Sulawesi,Indonesia,Typica,1500 to 1700 masl,Fully Washed Cherry Maceration,Vanilla,Cola,Chamomile Tea,NaN,0,0,0,0,0,0,0
+Mini Pack,Arabica,Tabe Burka Tangerine,85000,9,100,Uraga,Guji,Ethiopia,Mixed,1800 to 2200 masl,Fully Washed,Tangerine,Dried Flower,Lemongrass,NaN,1,0,0,0,0,1,5.000
+Mini Pack,Arabica,Tilu Tamarind,70000,35,100,Gunung Tilu,West Java,Indonesia,Mixed,1430 masl,72 Hours Fruit Enzyme Fermentation,Tamarind,Pistachio,Kiwi,Passion Fruit,18,0,0,0,0,18,5.000
+Mini Pack,Arabica,Bombe Flower Bomb,90000,73,100,Bombe,Sidama,Ethiopia,74160,1950 to 2100 masl,Natural,Rose Water,Sakura,Pear,NaN,39,0,1,0,0,40,4.950
+Mini Pack,Arabica,Blue Berry of Thika,90000,75,100,NaN,Thika,Kenya,Mixed,1675 masl,Washed,Blue Berry,Cherry,Greenaple,NaN,31,1,0,0,0,32,4.969
+Mini Pack,Arabica,Any Coffee You Like,150000,896,200,Mixed,Mixed,Mixed,Mixed,Mixed,Mixed,NaN,NaN,NaN,NaN,551,18,1,1,0,571,4.960
+Mini Pack,Arabica,Gayo Apple Cider,75000,159,100,Gayo Highland,Central Aceh,Indonesia,Mixed,1250 masl,Anaerobic Cherry Maceration,NaN,NaN,NaN,NaN,90,3,0,0,0,93,4.968
+Mini Pack,Arabica,Halu Pink Banana,75000,538,100,Gunung Halu,West Java,Indonesia,Sigararutang,1500 masl,Honey,NaN,NaN,NaN,NaN,274,11,2,0,0,287,4.948
+Mini Pack,Arabica,Halu Wine 1696,75000,218,100,Gunung Halu,West Java,Indonesia,Sigararutang,1500 masl,Extended Yeast Cherry Fermentation,Red Wine,Ripe Apple,Bitter Sweet Caramel,NaN,111,4,1,0,0,116,4.948
+Personal Pack,Arabica,Sulawesi Typica Vanilla Tea,130000,27,200,Gowa,South Sulawesi,Indonesia,Typica,1500 to 1700 masl,Fully Washed Cherry Maceration,Vanilla,Cola,Chamomile Tea,NaN,0,0,0,0,0,0,
+Personal Pack,Arabica,Tabe Burka Tangerine,135000,75,200,Uraga,Guji,Ethiopia,Mixed,1800 to 2200 masl,Fully Washed,Tangerine,Dried Flower,Lemongrass,NaN,26,0,0,0,0,26,5.000
+Personal Pack,Arabica,Tilu Tamarind,115000,144,200,Gunung Tilu,West Java,Indonesia,Mixed,1430 masl,72 Hours Fruit Enzyme Fermentation,Tamarind,Pistachio,Kiwi,Passion Fruit,63,1,1,0,0,65,4.954
+Personal Pack,Arabica,Bombe Flower Bomb,150000,357,200,Bombe,Sidama,Ethiopia,74160,1950 to 2100 masl,Natural,Rose Water,Sakura,Pear,NaN,171,4,0,0,0,175,4.977
+Personal Pack,Arabica,Blue Berry of Thika,150000,429,200,NaN,Thika,Kenya,Mixed,1675 masl,Washed,Blue Berry,Cherry,Greenaple,NaN,209,6,1,0,0,216,4.963
+Personal Pack,Arabica,Halu Wine 1696,130000,1200,200,Gunung Halu,West Java,Indonesia,Sigararutang,1500 masl,Extended Yeast Cherry Fermentation,Red Wine,Ripe Apple,Bitter Sweet Caramel,NaN,670,21,4,1,0,696,4.954
+Personal Pack,Arabica,Halu Pink Banana,130000,8200,200,Gunung Halu,West Java,Indonesia,Sigararutang,1500 masl,Honey,NaN,NaN,NaN,NaN,3677,131,29,3,6,3846,4.942
+Personal Pack,Arabica,Lintong Green Manggo,125000,950,200,Lintong Nihuta,North Sumatera,Indonesia,Sigararutang,1400 to 1450 masl,Anaerobic Yeast Fermentation,Green Mango,Cranberry,Cinnamon,NaN,425,12,0,0,0,437,4.973
+Personal Pack,Arabica,Halu Choco Banana,135000,1400,200,Gunung Halu,West Java,Indonesia,Sigararutang,1500 masl,Yellow Honey,NaN,NaN,NaN,NaN,617,23,10,1,0,651,4.929
+Personal Pack,Arabica,Gayo Apple Cider,125000,2700,200,Gayo Highland,Central Aceh,Indonesia,Mixed,1250 masl,Anaerobic Cherry Maceration,NaN,NaN,NaN,NaN,1162,29,4,1,0,1196,4.967
+Personal Pack,Arabica,Strawberry Fields,100000,1900,200,Blend,Blend,Blend,Blend,Blend,Blend,NaN,NaN,NaN,NaN,829,24,4,1,2,860,4.950
+Personal Pack,Blend Arabica/Robusta,Machoffee Blend,90000,647,200,Blend,Blend,Blend,Blend,Blend,Blend,NaN,NaN,NaN,NaN,279,6,3,0,0,288,4.958
+Personal Pack,Arabica,Originutt Blend,100000,616,200,Blend,Blend,Blend,Blend,Blend,Blend,NaN,NaN,NaN,NaN,274,11,3,0,0,288,4.941
+Family Pack,Arabica,Sulawesi Typica Vanilla Tea,310000,5,1000,Gowa,South Sulawesi,Indonesia,Typica,1500 to 1700 masl,Fully Washed Cherry Maceration,Vanilla,Cola,Chamomile Tea,NaN,0,0,0,0,0,0,0.000
+Family Pack,Arabica,Tilu Tamarind,290000,33,1000,Gunung Tilu,West Java,Indonesia,Mixed,1430 masl,72 Hours Fruit Enzyme Fermentation,Tamarind,Pistachio,Kiwi,Passion Fruit,11,1,0,0,0,12,4.917
+Family Pack,Arabica,Bombe Flower Bomb,400000,72,1000,Bombe,Sidama,Ethiopia,74160,1950 to 2100 masl,Natural,Rose Water,Sakura,Pear,NaN,33,0,0,0,0,33,5.000
+Family Pack,Arabica,Halu Wine 1696,320000,229,1000,Gunung Halu,West Java,Indonesia,Sigararutang,1500 masl,Extended Yeast Cherry Fermentation,Red Wine,Ripe Apple,Bitter Sweet Caramel,NaN,128,4,0,0,0,132,4.970
+Family Pack,Arabica,Blue Berry of Thika,400000,52,1000,NaN,Thika,Kenya,Mixed,1675 masl,Washed,Blue Berry,Cherry,Greenaple,NaN,20,0,0,0,0,20,5.000
+Family Pack,Arabica,Gayo Apple Cider,300000,492,1000,Gayo Highland,Central Aceh,Indonesia,Mixed,1250 masl,Anaerobic Cherry Maceration,NaN,NaN,NaN,NaN,238,5,2,0,0,245,4.963
+Family Pack,Arabica,Lintong Green Manggo,320000,91,1000,Lintong Nihuta,North Sumatera,Indonesia,Sigararutang,1400 to 1450 masl,Anaerobic Yeast Fermentation,Green Mango,Cranberry,Cinnamon,NaN,36,0,0,0,0,36,5.000
+Family Pack,Arabica,Nutella of Cerrado,300000,551,1000,NaN,Cerrado,Brazil,Mixed,900 to 1200 masl,Natural,NaN,NaN,NaN,NaN,257,7,0,1,0,265,4.962
+Family Pack,Arabica,Strawberry Fields,285000,791,1000,Blend,Blend,Blend,Blend,Blend,Blend,NaN,NaN,NaN,NaN,260,3,2,0,1,266,4.959
+Family Pack,Blend Arabica/Robusta,Machoffee Blend,240000,300,1000,Blend,Blend,Blend,Blend,Blend,Blend,NaN,NaN,NaN,NaN,119,4,1,1,0,125,4.928
+Family Pack,Arabica,Originutt Blend,285000,284,1000,Blend,Blend,Blend,Blend,Blend,Blend,NaN,NaN,NaN,NaN,104,0,0,0,0,104,5.000
+Commodity Coffee Beans,Arabica,West Java Gunung Halu,40000,465,200,Gunung Halu,West Java,Indonesia,Sigararutang,1500 masl,Washed,NaN,NaN,NaN,NaN,253,7,0,1,1,262,4.947
+Commodity Coffee Beans,Arabica,West Java Gunung Halu,160000,157,1000,Gunung Halu,West Java,Indonesia,Sigararutang,1500 masl,Washed,NaN,NaN,NaN,NaN,76,0,0,0,0,76,5.000
+Commodity Coffee Beans,Blend Arabica/Robusta,Build Your Own Blend,59000,427,200,Blend,Blend,Blend,Blend,Blend,Blend,NaN,NaN,NaN,NaN,269,4,0,1,0,274,4.974
+Commodity Coffee Beans,Blend Arabica/Robusta,Blend 25/75,28000,536,200,Blend,Blend,Blend,Blend,Blend,Blend,NaN,NaN,NaN,NaN,422,18,0,1,0,441,4.952
+Commodity Coffee Beans,Arabica,Blend 100% Arabica,35000,872,200,Blend,Blend,Blend,Blend,Blend,Blend,NaN,NaN,NaN,NaN,388,20,6,1,0,415,4.916
+Commodity Coffee Beans,Blend Arabica/Robusta,Blend 75/25,32000,865,200,Blend,Blend,Blend,Blend,Blend,Blend,NaN,NaN,NaN,NaN,422,18,0,1,0,441,4.952
+Commodity Coffee Beans,Blend Arabica/Robusta,Blend 50/50,30000,1000,200,Blend,Blend,Blend,Blend,Blend,Blend,NaN,NaN,NaN,NaN,476,23,2,0,0,501,4.946
+Commodity Coffee Beans,Robusta,Fine Robusta,25000,541,200,Blend,Blend,Blend,Blend,Blend,Blend,NaN,NaN,NaN,NaN,253,8,2,0,0,263,4.954
+Commodity Coffee Beans,Blend Arabica/Robusta,Off Market Coffee,30000,528,200,Blend,Blend,Blend,Blend,Blend,Blend,NaN,NaN,NaN,NaN,107,7,0,0,0,114,4.939
+Commodity Coffee Beans,Arabica,Blend 100% Arabica,155000,2100,1000,Blend,Blend,Blend,Blend,Blend,Blend,NaN,NaN,NaN,NaN,675,10,4,0,1,690,4.968
+Commodity Coffee Beans,Blend Arabica/Robusta,Blend 75/25,125000,3600,1000,Blend,Blend,Blend,Blend,Blend,Blend,NaN,NaN,NaN,NaN,891,17,4,1,0,913,4.969
+Commodity Coffee Beans,Blend Arabica/Robusta,Blend 50/50,115000,8400,1000,Blend,Blend,Blend,Blend,Blend,Blend,NaN,NaN,NaN,NaN,2286,55,11,3,3,2358,4.958
+Commodity Coffee Beans,Blend Arabica/Robusta,Blend 25/75,100000,3800,1000,Blend,Blend,Blend,Blend,Blend,Blend,NaN,NaN,NaN,NaN,991,22,3,0,1,1017,4.969
+Commodity Coffee Beans,Robusta,Fine Robusta,80000,5000,1000,Blend,Blend,Blend,Blend,Blend,Blend,NaN,NaN,NaN,NaN,1755,33,2,4,1,1795,4.970
